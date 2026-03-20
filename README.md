@@ -1,2 +1,3 @@
-# super-fitness-tracker-ja82
-Automated issue comment bot repository
+# Super Fitness Tracker Ja82
+
+Automated issue comment bot repository.
